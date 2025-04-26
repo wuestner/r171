@@ -6,7 +6,7 @@ classes: wide
 author_profile: false
 ---
 
-Nach der Übergabe des Fahrzeuges fühlt sich der SLK ein wenig "hölzern" an. Es wurden daher einige Veschleissteile ausgetauscht. Die Schreibenwischerblätter waren ausgehärtet, der Motorlauf etwas rauh und unwillig. Daher erstmal einige Verschleissteile ausgetauscht. 
+Nach der Übergabe des Fahrzeuges fühlt sich der SLK ein wenig "hölzern" an. Die Schreibenwischerblätter waren ausgehärtet, der Motorlauf etwas rauh und unwillig. Der Geruch im Innenraum etwas abgestanden. Daher wurden erstmal einige Verschleissteile ausgetauscht. 
 
 Erneuert wurden in Eigenregie bei KM Stand 48500:
 

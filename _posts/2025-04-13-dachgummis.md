@@ -8,6 +8,10 @@ kosten: "30 €"
 classes: wide
 author_profile: false
 ---
+**Durchgeführt am:** {{ page.date | date: "%d.%m.%Y" }}  
+**Kilometerstand:** ca. {{ page.km | number_with_delimiter: delimiter: "." }} km  
+**Durchgeführt von:** {{ page.durchgefuehrt_von }}  
+**Kosten:** {{ page.kosten }}
 
 Dachgummis & Türdichtungen gepflegt
 

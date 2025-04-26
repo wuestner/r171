@@ -8,14 +8,6 @@ subtitle: "Willkommen im Restaurierungstagebuch meines Mercedes SLK R171 Kompres
 
 Hier dokumentiere ich Wartungen, Pflege und Upgrades rund um meinen Mercedes SLK R171. 
 
-## Letzte Einträge
-
-{% for post in site.posts limit:5 %}
-- [{{ post.title }}]({{ site.baseurl }}{{ post.url }}) – {{ post.date | date: "%d.%m.%Y" }}
-{% endfor %}
-
----
-
 ## Wartungshistorie
 
 Hier erscheinen alle Wartungseinträge chronologisch.

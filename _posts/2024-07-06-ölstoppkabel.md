@@ -2,6 +2,8 @@
 layout: single
 title: "Ölstoppkabel"
 date: 2024-07-06
+durchgefuehrt_von: "Eigenregie"
+kosten: "12 €"
 km: 50500
 classes: wide
 author_profile: false

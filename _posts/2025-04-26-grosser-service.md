@@ -8,6 +8,10 @@ kosten: "950 €"
 classes: wide
 author_profile: false
 ---
+**Durchgeführt am:** {{ page.date | date: "%d.%m.%Y" }}  
+**Kilometerstand:** ca. {{ page.km | number_with_delimiter: delimiter: "." }} km  
+**Durchgeführt von:** {{ page.durchgefuehrt_von }}  
+**Kosten:** {{ page.kosten }}
 
 Heute wurde ein großer Flüssigkeiten-Service an meinem Mercedes SLK 200 Kompressor (R171) durchgeführt.
 

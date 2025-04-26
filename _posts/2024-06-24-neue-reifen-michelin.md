@@ -13,11 +13,11 @@ author_profile: false
 **Durchgeführt von:** {{ page.durchgefuehrt_von }}  
 **Kosten:** {{ page.kosten }}
 
-Der Wagen verfügte über eine Mischbereifung (Continental / Michelin) DOT 2015. Höchste Zeit für neue Reifen.
+Der Wagen verfügte über eine Mischbereifung (Continental / Fulda) DOT 2015. Höchste Zeit für neue Reifen.
 
 Erneuert wurden durch die Werkstatt:
 
-- Michelin Primacy 4+ 205/55R16
+- [Michelin Primacy 4+](https://www.michelin.at/auto/tyres/michelin-primacy-4) 205/55R16
 
 ---
 

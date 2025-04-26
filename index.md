@@ -10,8 +10,6 @@ Hier dokumentiere ich Wartungen, Pflege und Upgrades rund um meinen Mercedes SLK
 
 ## Wartungshistorie
 
-Hier erscheinen alle Wartungseinträge chronologisch.
-
 {% for post in site.posts %}
 ### [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 > {{ post.excerpt }}

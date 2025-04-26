@@ -1,15 +1,10 @@
 ---
 layout: home
 title: "SLK R171 Bordbuch"
-subtitle: "Wartungen, Pflege und Upgrades dokumentiert."
+subtitle: "Wartungen, Pflege und Upgrades"
 author_profile: false
 ---
----
-layout: home
-title: "SLK R171 Bordbuch"
-subtitle: "Wartungen, Pflege und Upgrades dokumentiert."
-author_profile: false
----
+
 <style>
   table {
     width: 100%;

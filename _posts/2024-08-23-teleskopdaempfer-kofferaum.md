@@ -2,13 +2,14 @@
 layout: single
 title: "Teleskopdämpfer Kofferaum"
 date: 2024-08-23
+km: 53000
 classes: wide
 author_profile: false
 ---
 
 Der Kofferraumdeckel konnte sich nicht aus eigener Kraft geöffnet halten.
 
-Daher wurden in Eigenregie bei KM Stand 53000 verbaut:
+Daher wurden in Eigenregie erbaut:
 
 - 2 Teleskopdämpfer Kofferaum (Stabilit)
 

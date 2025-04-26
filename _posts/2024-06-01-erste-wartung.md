@@ -13,7 +13,7 @@ Nach der Übergabe des Fahrzeuges fühlt sich der SLK ein wenig "hölzern" an. D
 
 Erneuert wurden in Eigenregie:
 
-- Zündkerzen ([NGK 95716](https://www.auto-doc.at/ngk/636510)
+- Zündkerzen [NGK 95716](https://www.auto-doc.at/ngk/636510)
 - Luftfilter [BOSCH 1 987 429 401](https://www.auto-doc.at/bosch/1187867)
 - Innenraumfilter [MANN-FILTER CUK 3621](https://www.auto-doc.at/mann-filter/962585)
 - Schreibwischerblätter [Scheibenwischer BOSCH Aerotwin A 969 S](https://www.auto-doc.at/bosch/1194352#scheibenwischer)

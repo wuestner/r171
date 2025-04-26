@@ -7,6 +7,8 @@ url: "https://wuestner.github.io"
 
 remote_theme: mmistakes/minimal-mistakes
 
+locale: de
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap

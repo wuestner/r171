@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Wartung nach der Übernahme des Fahzeuges"
+title: "Zündkerzen, Luftfilter, Innenraumfilter, Scheibenwischer"
 date: 2024-06-01
 classes: wide
 author_profile: false

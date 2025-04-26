@@ -3,6 +3,8 @@ layout: single
 title: "Öl, Ölfilter, Bremse, Klima"
 date: 2024-09-01
 km: 54000
+durchgefuehrt_von: "Freie Werkstatt"
+kosten: "450 €"
 classes: wide
 author_profile: false
 ---

@@ -4,10 +4,28 @@ description: >-
   Willkommen im Logbuch meines Mercedes SLK R171 Kompressor.
 baseurl: "/r171"
 url: "https://wuestner.github.io"
+
 remote_theme: mmistakes/minimal-mistakes
+
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-seo-tag
   - jekyll-include-cache
+
 markdown: kramdown
+kramdown:
+  input: GFM
+
+# Optionen für Minimal Mistakes (können später erweitert werden)
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      related: true
+      comments: false
+      share: false

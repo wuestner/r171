@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Schaltsack erneuert"
+title: "Schaltsack"
 date: 2025-04-06
 km: 57500
 classes: wide

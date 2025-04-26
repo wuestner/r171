@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Großer Service am SLK R171"
+title: "Öle / Flüssigkeiten / Filter"
 date: 2025-04-26
 classes: wide
 author_profile: false

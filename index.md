@@ -11,7 +11,7 @@ Hier dokumentiere ich Wartungen, Pflege und Upgrades rund um meinen Mercedes SLK
 ## Letzte Einträge
 
 {% for post in site.posts limit:5 %}
-- [{{ post.title }}]({{ post.url }}) – {{ post.date | date: "%d.%m.%Y" }}
+- [{{ post.title }}]({{ site.baseurl }}{{ post.url }}) – {{ post.date | date: "%d.%m.%Y" }}
 {% endfor %}
 
 ---
@@ -21,7 +21,6 @@ Hier dokumentiere ich Wartungen, Pflege und Upgrades rund um meinen Mercedes SLK
 Hier erscheinen alle Wartungseinträge chronologisch.
 
 {% for post in site.posts %}
-### [{{ post.title }}]({{ post.url }})
+### [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 > {{ post.excerpt }}
-
 {% endfor %}

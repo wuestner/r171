@@ -9,6 +9,11 @@ classes: wide
 author_profile: false
 ---
 
+**Durchgeführt am:** {{ page.date | date: "%d.%m.%Y" }}  
+**Kilometerstand:** ca. {{ page.km | number_with_delimiter: delimiter: "." }} km  
+**Durchgeführt von:** {{ page.durchgefuehrt_von }}  
+**Kosten:** {{ page.kosten }}
+
 Heute habe ich den Schaltsack erneuert. Der alte war spröde und rissig. Der neue kommt von [Lartepelle](https://www.lartepelle.com/de/) aus Italien.
 
 - Rahmen des Schalthebels aus der Mittelkonsole heraushebeln (am Besten nur mit den Fingern - Die Konsole nicht mit den Spitzen Nasen des Rahmens zerkratzen!)

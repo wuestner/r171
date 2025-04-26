@@ -3,6 +3,8 @@ layout: single
 title: "Öle / Flüssigkeiten / Filter"
 date: 2025-04-26
 km: 57800
+durchgefuehrt_von: "Freie Werkstatt"
+kosten: "950 €"
 classes: wide
 author_profile: false
 ---

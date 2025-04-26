@@ -22,7 +22,7 @@ Erneuert wurden in Eigenregie:
 - Innenraumfilter [MANN-FILTER CUK 3621](https://www.auto-doc.at/mann-filter/962585)
 - Schreibwischerblätter [Scheibenwischer BOSCH Aerotwin A 969 S](https://www.auto-doc.at/bosch/1194352#scheibenwischer)
 
-Speziell der Tausch des Luftfilters brachte eine spürbare Verbesserung beim Motorlauf. Die alten Bosch Zündkerzen hätten es wohl noch weiter getan. Der Scheibenwischer war wieder funktional. 
+Speziell der Tausch des Luftfilters brachte eine spürbare Verbesserung beim Motorlauf. Die alten Bosch Zündkerzen hätten es wohl noch weiter getan. Der Scheibenwischer erfüllte seinen Zweck wieder. Fürs SLK war damit bereit für die ersten Ausfahrten. 
 
 ---
 

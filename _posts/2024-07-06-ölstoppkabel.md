@@ -12,7 +12,7 @@ Die Nockenwellenversteller zeigten zwar keine Anzeichen von Undichtigkeit. Aber 
 
 Daher wurden in Eigenregie vorsorglich beim KM Stand 50500 verbaut:
 
-- 2 Ölstopkabel (Marke Bisenya, Amazon)
+- 2 Ölstoppkabel (Marke Bisenya, Amazon)
 
 ---
 

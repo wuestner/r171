@@ -4,6 +4,12 @@ title: "SLK R171 Bordbuch"
 subtitle: "Wartungen, Pflege und Upgrades dokumentiert."
 author_profile: false
 ---
+---
+layout: home
+title: "SLK R171 Bordbuch"
+subtitle: "Wartungen, Pflege und Upgrades dokumentiert."
+author_profile: false
+---
 <style>
   table {
     width: 100%;
@@ -21,7 +27,12 @@ author_profile: false
   tr:hover {
     background-color: #f9f9f9;
   }
+  /* Wartung (zweite Spalte) linksbündig */
+  td:nth-child(2), th:nth-child(2) {
+    text-align: left;
+  }
 </style>
+
 
 Willkommen in meinem Bordbuch rund um meinen Mercedes SLK R171 Kompressor!
 

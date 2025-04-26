@@ -2,6 +2,7 @@
 layout: single
 title: "Schaltsack erneuert"
 date: 2025-04-06
+km: 57500
 classes: wide
 author_profile: false
 ---

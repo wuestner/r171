@@ -3,6 +3,8 @@ layout: single
 title: "Dachgummis" 
 date: 2025-04-13
 km: 57500
+durchgefuehrt_von: "Eigenregie"
+kosten: "30 €"
 classes: wide
 author_profile: false
 ---

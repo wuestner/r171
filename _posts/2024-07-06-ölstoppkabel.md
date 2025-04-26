@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Ölstopkabel"
+title: "Ölstoppkabel"
 date: 2024-07-06
 classes: wide
 author_profile: false

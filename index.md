@@ -23,7 +23,6 @@ author_profile: false
   }
 </style>
 
-
 Willkommen in meinem Bordbuch rund um meinen Mercedes SLK R171 Kompressor!
 
 Hier dokumentiere ich alle durchgeführten Wartungen, Pflegearbeiten und Upgrades.
@@ -44,12 +43,6 @@ Hier dokumentiere ich alle durchgeführten Wartungen, Pflegearbeiten und Upgrade
     <tr>
       <td>{{ post.date | date: "%d.%m.%Y" }}</td>
       <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></td>
-      <td>{% if post.km %}ca. {{ post.km | number_with_delimiter: delimiter: "." }} km{% else %}-{% endif %}</td>
-    </tr>
-    {% endfor %}
-  </tbody>
-</table>
-
       <td>{% if post.km %}ca. {{ post.km | number_with_delimiter: delimiter: "." }} km{% else %}-{% endif %}</td>
     </tr>
     {% endfor %}

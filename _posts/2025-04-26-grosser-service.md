@@ -2,6 +2,7 @@
 layout: single
 title: "Öle / Flüssigkeiten / Filter"
 date: 2025-04-26
+km: 57800
 classes: wide
 author_profile: false
 ---

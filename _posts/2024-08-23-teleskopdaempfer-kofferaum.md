@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Teleskopdämpfer Kofferaum"
+title: "Dämpfer Kofferaumklappe"
 date: 2024-08-23
 km: 53000
 durchgefuehrt_von: "Eigenregie"
@@ -17,7 +17,7 @@ Der Kofferraumdeckel konnte sich nicht aus eigener Kraft geöffnet halten.
 
 Daher wurden in Eigenregie erbaut:
 
-- 2 Teleskopdämpfer Kofferaum (Stabilit)
+- 2 [STABILUS // LIFT-O-MAT® 000920 Heckklappendämpfer](https://www.autodoc.de/stabilus/290954)
 
 ---
 

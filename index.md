@@ -54,3 +54,7 @@ Hier dokumentiere ich alle durchgeführten Wartungen, Pflegearbeiten und Upgrade
     {% endfor %}
   </tbody>
 </table>
+<div style="text-align: center; margin-top: 2rem;">
+  <img src="https://hitwebcounter.com/counter/counter.php?page=1234567&style=0006&nbdigits=5&type=page&initCount=0" title="Page View Counter" Alt="page counter" border="0" />
+</div>
+

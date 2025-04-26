@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Teleskpdämpfer Kofferaum"
+title: "Teleskopdämpfer Kofferaum"
 date: 2024-08-23
 classes: wide
 author_profile: false

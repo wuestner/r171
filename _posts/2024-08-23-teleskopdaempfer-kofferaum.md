@@ -15,10 +15,11 @@ author_profile: false
 
 Der Kofferraumdeckel konnte sich nicht aus eigener Kraft geöffnet halten.
 
-Daher wurden in Eigenregie erbaut:
+Daher wurden eingebaut:
 
 - 2 [STABILUS // LIFT-O-MAT® 000920 Heckklappendämpfer](https://www.autodoc.de/stabilus/290954)
 
----
+Der Trick beim Einbau ist, die Halterungen für die Kugelgelenke am Kopferraumdeckel zu lösen und zu verschieben. Nur so lassen sich die Dampfer auf den Kugelgelenke einrasten. 
+
 
 [Zurück zur Startseite]({{ site.baseurl }}/)

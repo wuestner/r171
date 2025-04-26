@@ -10,5 +10,13 @@ Heute habe ich den Schaltsack erneuert. Der alte war spröde und rissig.
 
 Hier ein Bild vom Wechsel:
 
-![Schaltsack]({{ site.baseurl }}/assets/images/schaltsack.jpg)
-![Schaltsack eingbaut]({{ site.baseurl }}/assets/images/schaltsack_montiert.jpg)
+{% include figure image_path="/assets/images/schaltsack.jpg" alt="Alter spröder Schaltsack" caption="Der alte Schaltsack war stark rissig." %}
+
+Hier ein Bild vom eingebauten neuen Schaltsack:
+
+{% include figure image_path="/assets/images/schaltsack_montiert.jpg" alt="Neuer Schaltsack eingebaut" caption="Neuer Schaltsack aus Echtleder montiert." %}
+
+---
+
+[Zurück zur Startseite]({{ site.baseurl }}/)
+

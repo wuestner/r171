@@ -7,7 +7,7 @@ classes: wide
 author_profile: false
 ---
 
-Im Rahmen der jährlichen Überprüfung nach §57a („Pickerl“) wurde der SLK in der Werkstatt gründlich durchgecheckt. Ergänzend dazu erfolgten wichtige Wartungspunkte:
+Im Rahmen der jährlichen Überprüfung nach 57a („Pickerl“) wurde der SLK in der Werkstatt gründlich durchgecheckt. Ergänzend dazu erfolgten wichtige Wartungspunkte:
 
 - Wechsel des Motoröls inkl. Filter
 - Erneuerung der Bremsflüssigkeit

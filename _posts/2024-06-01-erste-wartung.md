@@ -15,7 +15,7 @@ author_profile: false
 
 Nach der Übergabe des Fahrzeuges fühlt sich der SLK ein wenig "hölzern" an. Die Schreibenwischerblätter waren ausgehärtet, der Motorlauf etwas rauh und unwillig. Der Geruch im Innenraum wirkte etwas abgestanden. Daher wurden erstmal einige Verschleissteile ausgetauscht. 
 
-Erneuert wurden in Eigenregie:
+Erneuert wurden:
 
 - Zündkerzen [NGK 95716](https://www.auto-doc.at/ngk/636510)
 - Luftfilter [BOSCH 1 987 429 401](https://www.auto-doc.at/bosch/1187867)

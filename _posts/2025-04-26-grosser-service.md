@@ -12,7 +12,7 @@ Erneuert wurden:
 
 - Getriebeöl (FEBI BILSTEIN 21829 Schaltgetriebeöl, neue Ablassschschraube, neue Einfüllschraube, jeweils MB A000997793)
 - Achsgetriebeöl (FEBI BILSTEIN 48785 Differentialöl, neue Ablasschraube MB A0009905817, neue Einfüllschraube MB A0009976232)
-- Kompressoröl (RN-ETCH, neue Einfüllschraube mit Sechskant von RN-ETECH)
+- Kompressoröl (Öl und neue Sechskant-Einfüllschraube von [RN E-Tech (https://www.rn-etech.de))
 - Servolenkungsflüssigkeit & Spülung (LIQUI MOLY Zentralhydrauliköl 1127)
 - Kühlflüssigkeit (FEBI BILSTEIN 22268 Kühlerfrostschutz)
 - Benzinfilter (MB A1714701090)

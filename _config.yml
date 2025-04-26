@@ -9,7 +9,6 @@ remote_theme: mmistakes/minimal-mistakes
 
 locale: de
 
-show_excerpts: false
 paginate: false
 
 plugins:

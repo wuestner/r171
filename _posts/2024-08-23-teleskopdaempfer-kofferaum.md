@@ -3,6 +3,8 @@ layout: single
 title: "Teleskopdämpfer Kofferaum"
 date: 2024-08-23
 km: 53000
+durchgefuehrt_von: "Eigenregie"
+kosten: "30 €"
 classes: wide
 author_profile: false
 ---

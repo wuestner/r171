@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "SLK R171 Restaurierungstagebuch"
+title: "SLK R171 Bordbuch"
 subtitle: "Wartungen, Pflege und Upgrades dokumentiert."
 author_profile: false
 ---

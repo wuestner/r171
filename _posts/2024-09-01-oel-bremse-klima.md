@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "Zündkerzen, Luftfilter, Innenraumfilter, Scheibenwischer"
-date: 2024-06-01
-km: 55000
+title: "Öl, Ölfilter, Bremse, Klima"
+date: 2024-09-01
+km: 54000
 classes: wide
 author_profile: false
 ---

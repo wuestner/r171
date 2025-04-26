@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Dachgummis"- 
+title: "Dachgummis" 
 date: 2025-04-13
 km: 57500
 classes: wide

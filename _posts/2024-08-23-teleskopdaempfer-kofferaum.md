@@ -6,7 +6,7 @@ classes: wide
 author_profile: false
 ---
 
-Der Kofferraumdeckel konnte sich nicht aus eigener Kraft geöffent halten.
+Der Kofferraumdeckel konnte sich nicht aus eigener Kraft geöffnet halten.
 
 Daher wurden in Eigenregie bei KM Stand 53000 verbaut:
 

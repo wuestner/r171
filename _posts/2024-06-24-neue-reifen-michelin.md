@@ -3,6 +3,8 @@ layout: single
 title: "Reifen Michelin Primacy 4+"
 date: 2024-06-24
 km: 49500
+durchgefuehrt_von: "Freie Werkstatt"
+kosten: "45ß €"
 classes: wide
 author_profile: false
 ---

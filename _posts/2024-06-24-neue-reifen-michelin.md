@@ -8,6 +8,10 @@ kosten: "45ß €"
 classes: wide
 author_profile: false
 ---
+**Durchgeführt am:** {{ page.date | date: "%d.%m.%Y" }}  
+**Kilometerstand:** ca. {{ page.km | number_with_delimiter: delimiter: "." }} km  
+**Durchgeführt von:** {{ page.durchgefuehrt_von }}  
+**Kosten:** {{ page.kosten }}
 
 Der Wagen verfügte über eine Mischbereifung (Continental / Michelin) DOT 2015. Höchste Zeit für neue Reifen.
 

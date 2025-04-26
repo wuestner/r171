@@ -3,6 +3,8 @@ layout: single
 title: "Schaltsack"
 date: 2025-04-06
 km: 57500
+durchgefuehrt_von: "Eigenregie"
+kosten: "25 €"
 classes: wide
 author_profile: false
 ---

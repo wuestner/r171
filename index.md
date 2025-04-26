@@ -6,7 +6,7 @@ subtitle: "Willkommen im Restaurierungstagebuch meines Mercedes SLK R171 Kompres
 
 ## Übersicht
 
-Hier dokumentiere ich Wartungen, Pflege und Upgrades rund um meinen Mercedes SLK R171.
+Hier dokumentiere ich Wartungen, Pflege und Upgrades rund um meinen Mercedes SLK R171. 
 
 ## Letzte Einträge
 

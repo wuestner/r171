@@ -24,7 +24,7 @@ author_profile: false
 </style>
 
 
-Willkommen in meinem Restaurierungstagebuch rund um meinen Mercedes SLK R171 Kompressor!
+Willkommen in meinem Bordbuch rund um meinen Mercedes SLK R171 Kompressor!
 
 Hier dokumentiere ich alle durchgeführten Wartungen, Pflegearbeiten und Upgrades.
 

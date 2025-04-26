@@ -11,7 +11,7 @@ Heute wurde ein großer Flüssigkeiten-Service an meinem Mercedes SLK 200 Kompre
 
 Erneuert wurden:
 
-- Getriebeöl ([https://partsfinder.bilsteingroup.com/de/article/febi/21829](FEBI BILSTEIN 21829 Schaltgetriebeöl)
+- Getriebeöl [FEBI BILSTEIN 21829 Schaltgetriebeöl(https://partsfinder.bilsteingroup.com/de/article/febi/21829)
 - neue Ablassschschraube (MB A000997793)
 - neue Einfüllschraube, /MB A000997793)
 - Achsgetriebeöl (FEBI BILSTEIN 48785 Differentialöl, neue Ablasschraube MB A0009905817, neue Einfüllschraube MB A0009976232)

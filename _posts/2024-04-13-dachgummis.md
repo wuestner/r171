@@ -9,7 +9,7 @@ author_profile: false
 
 Dachgummis & Türdichtungen gepflegt
 
-Behandlung aller Dach- und Türdichtungen mit Krytox zur Erhaltung der Elastizität und Dichtheit. Empfehlung: mindestens 1x jährlich anwenden.</p>
+Behandlung aller Dach- und Türdichtungen mit Krytox zur Erhaltung der Elastizität und Dichtheit. Empfehlung: mindestens 1x jährlich anwenden.
  
 ---
 

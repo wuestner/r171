@@ -6,16 +6,18 @@ classes: wide
 author_profile: false
 ---
 
+Heute wurde ein großer Flüssigkeiten-Service an meinem Mercedes SLK 200 Kompressor (R171) durchgeführt.
 
-Heute wurde der große Wartungsservice an meinem Mercedes SLK 200 Kompressor (R171) durchgeführt.
+Erneuert wurden:
 
-Getauscht wurden:
-- Getriebeöl
-- Kompressoröl
-- Servolenkungsflüssigkeit
-- Benzinfilter
+- Getriebeöl (FEBI BILSTEIN 21829 Schaltgetriebeöl, neue Ablassschschraube, neue Einfüllschraube, jeweils MB A000997793)
+- Achsgetriebeöl (FEBI BILSTEIN 48785 Differentialöl, neue Ablasschraube MB A0009905817, neue Einfüllschraube MB A0009976232)
+- Kompressoröl (RN-ETCH, neue Einfüllschraube mit Sechskant von RN-ETECH)
+- Servolenkungsflüssigkeit & Spülung (LIQUI MOLY Zentralhydrauliköl 1127)
+- Kühlflüssigkeit (FEBI BILSTEIN 22268 Kühlerfrostschutz)
+- Benzinfilter (MB A1714701090)
 
-Das Fahrzeug läuft nun wieder deutlich ruhiger und zuverlässiger.
+Mercedes Benz schreibt den Wechsel der Kühlflüssigkeit und des Benzinfilters nach 15 Jahren vor. Getriebeöl, Achsgetriebeöl und Kompressoröl sind als Lifetime-Füllungen konzipiert. Aber ein Wechsel dieser Öle kann nach 16 Jahren nicht schaden. Die Servolenkung empfinde ich als relativ schwergängig. Mit dem neuen Servoöl scheint sie einen Ticken leichtgängiger zu sein.  
 
 ---
 

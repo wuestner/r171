@@ -1,8 +1,8 @@
 title: SLK R171 Restaurierungstagebuch
-email: your-email@example.com
+email: rwuestner@mailbox.org
 description: >-
-  Willkommen im Restaurierungstagebuch meines Mercedes SLK R171 Kompressor.
+  Willkommen im Logbuch meines Mercedes SLK R171 Kompressor.
 baseurl: ""
-url: "https://your-github-username.github.io"
+url: "https://https://wuestner.github.io/r171/"
 theme: minima
 markdown: kramdown

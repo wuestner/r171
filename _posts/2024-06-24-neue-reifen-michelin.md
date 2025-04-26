@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Neue Reifen Michelin Primacy 4+"
+title: "Reifen Michelin Primacy 4+"
 date: 2024-06-24
 km: 49500
 classes: wide

@@ -22,7 +22,7 @@ Heute habe ich den Schaltsack erneuert. Der alte war spröde und rissig. Der neu
 - Die Verklebung des alten Schaltsackes mit dem Rahmen lösen (z.B. mit einem Ola Messer) und Schaltsack vom Rahmen entfernen
 - Den schwarzen Plastik-Klemmring, der den Schaltsack mit dem Schaltkauf verbindet, vorsichtig abhebeln (geht zB mit einer Messerklinge als Hebel)
 - Den neuen Schaltsack mit etwas Wasser aus einer Sprühflasche von Innen befeuchten, um das Leder dehnen zu können
-- Den neuen Schaltsack mit dem Rahmen verkleben - [Kontakkleber](https://www.pattex.de/products/central-pdp.html/pattex-kraftkleber-classic/SAP_0201FSP03EI1.html) verwenden - gut ablüften lassen und dann das Leder anpressen
+- Den neuen Schaltsack mit dem Rahmen verkleben - [Kontaktkleber](https://www.pattex.de/products/central-pdp.html/pattex-kraftkleber-classic/SAP_0201FSP03EI1.html) verwenden - gut ablüften lassen und dann das Leder anpressen
 - Den neue Schaltsack am oberen Ende mit dem Schaltknauf verklemmen - ich habe noch etwas Kontaktkleber verwendet, damit es hält
 - Den fertig belederten Schaltknauf in umgekehrter Reihenfolge wieder einbauen
     

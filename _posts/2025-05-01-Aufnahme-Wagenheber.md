@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Wagenheber Aufnahme"
-date: 2025-0-01
+date: 2025-05-01
 km: 58500
 durchgefuehrt_von: "Eigenregie"
 kosten: "15 €"

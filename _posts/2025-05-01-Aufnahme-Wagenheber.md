@@ -15,7 +15,7 @@ author_profile: false
 
 Habe auf einer Bordsteinkante leicht aufgesetzt und die Aufnahme des Wagenhebers ruiniert. Es wurde daher eine neue eingebaut:
 
-- [FEBI BILSTEIN 34984](https://partsfinder.bilsteingroup.com/de/article/febi/34984) montiert
+- [FEBI BILSTEIN 34984](https://partsfinder.bilsteingroup.com/de/article/febi/34984)
 
 ---
 

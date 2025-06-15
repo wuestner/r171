@@ -2,7 +2,7 @@
 layout: single
 title: "Östoppkabel"
 date: 2025-06-15
-km: 57500
+km: 59500
 durchgefuehrt_von: "Eigenregie"
 kosten: "25 €"
 classes: wide

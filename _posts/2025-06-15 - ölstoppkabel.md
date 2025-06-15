@@ -3,4 +3,4 @@ Die Kabel verfügen über keine Bauteile, die den Aufstieg von Öl in das Steuer
 
 Wie auch immer, habe mir nun Ölstoppkabel von FEBI besorgt und eingebaut.
 
-TRUCKTEC ÖLSTOPPKABEL (https://www.bandel-online.de/elektrik/sonstige-elektro-teile/oel-stop-kabel-nockenwellensensor-adapterstecker-mercedes-benz-om111-om271.html)
+[TRUCKTEC ÖLSTOPPKABEL] (https://www.bandel-online.de/elektrik/sonstige-elektro-teile/oel-stop-kabel-nockenwellensensor-adapterstecker-mercedes-benz-om111-om271.html)

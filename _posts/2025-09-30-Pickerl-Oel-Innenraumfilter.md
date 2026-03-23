@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Picker, Öl, Ölfilter, Innenraumfilter"
-date: 2024-09-01
+date: 2025-09-30
 km: 59500
 durchgefuehrt_von: "Freie Werkstatt"
 kosten: "450 €"

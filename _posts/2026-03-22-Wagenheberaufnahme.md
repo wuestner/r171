@@ -2,7 +2,7 @@
 layout: single
 title: "Wagenheber Aufnahme - schon wieder"
 date: 2026-03-20
-km: 62500
+km: 65500
 durchgefuehrt_von: "Eigenregie"
 kosten: "15 €"
 classes: wide

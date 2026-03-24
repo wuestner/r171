@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "Picker, Öl, Ölfilter, Innenraumfilter"
+title: "Pickerl, Öl, Ölfilter, Innenraumfilter"
 date: 2025-09-30
-km: 59500
+km: 65500
 durchgefuehrt_von: "Freie Werkstatt"
 kosten: "450 €"
 classes: wide

@@ -2,7 +2,7 @@
 layout: single
 title: "Räder AMG / Goodyear Eagle F1"
 date: 2025-07-20
-km: 58000
+km: 61000
 durchgefuehrt_von: "Eigenregie"
 kosten: "1500€"
 classes: wide

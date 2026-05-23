@@ -4,7 +4,7 @@ title: "Abblendlicht und Wischwasseranlage instandgesetzt"
 date: 2026-05-23
 km: 65500
 durchgefuehrt_von: "Eigenregie"
-kosten: "noch offen"
+kosten: 40 EUR
 classes: wide
 author_profile: false
 ---

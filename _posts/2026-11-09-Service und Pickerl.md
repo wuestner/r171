@@ -1,3 +1,4 @@
+---
 layout: single
 title: "Service, Pickerl, Ölwechsel"
 date: 2026-11-09
